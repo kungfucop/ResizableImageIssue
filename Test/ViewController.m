@@ -45,7 +45,7 @@ const CGFloat BACKGROUND_ALPHA = 0.84;
 {
     return [self getResizeableImage:@"onboarding_box_3x18_L2T15"  // changed to  editor_navbar_pressed_1x1 works
             //top left bottom right
-                          capInsets:UIEdgeInsetsMake(15, 4, 2, 1)
+                          capInsets:UIEdgeInsetsMake(12, 1, 2, 1)
             // capInsets:UIEdgeInsetsMake(12, 7, 7, 1)
                         orientation:orientation];
 }
