@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B835857-64B8-4856-A1F6-2EF61ED41BC4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6FBD4808-2F28-47EB-994B-F3D1FBF01A3A</key>
+		<string>https://github.com/kungfucop/ResizableImageIssue.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Test.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6FBD4808-2F28-47EB-994B-F3D1FBF01A3A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kungfucop/ResizableImageIssue.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6FBD4808-2F28-47EB-994B-F3D1FBF01A3A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6FBD4808-2F28-47EB-994B-F3D1FBF01A3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ResizableImageIssue</string>
+		</dict>
+	</array>
+</dict>
+</plist>
